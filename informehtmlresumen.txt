@@ -1,0 +1,9 @@
+tehrhov4;495;864;R;
+tehrhov7;443;864;R;
+tehrhov8;0;3;V;
+tehrhov9;2;165;A;
+tehrhova;0;3;V;
+tehrhovd;2;5;R;
+tehrhovg;0;160;V;
+tehrhovj;0;9;V;
+tehrhovm;0;160;V;
